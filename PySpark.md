@@ -1,12 +1,14 @@
 
 ## What PySpark actually is
 
+
 **Apache Spark** is a system for processing large datasets.
 
 **PySpark** is the Python interface to Spark.
 
 So when you write:
 
+https://medium.com/@sarfarazhussain211/understanding-sparks-logical-and-physical-plan-in-layman-s-term-8dfd7ff618d9
 ```python
 df = spark.read.csv("sales.csv")
 ```
